@@ -1,0 +1,8 @@
+name: pathway_analysis
+channels: 
+  - anaconda
+dependencies: 
+  - pandas 
+  - pip:
+    - git+https://github.com/dstoeckel/Graviton.py.git
+

@@ -1,0 +1,40 @@
+ID,Abbr
+Naive CD4+ T cells,Naive CD4+ T
+CD4+ regulatory T cell,Treg CD4+ T
+Follicular helper CD4 T cell,Tfh CD4+ T
+CD4+ T-Helper 1 Cell,Th1 CD4+ T
+CD4+ T-Helper 2 Cell,Th2 CD4+ T
+CD4+ T-Helper 17 Cell,Th17 CD4+ T
+CD4+ central memory T cell,Tcm CD4+ T
+CD4+ transitional memory T cell,Ttm CD4+ T
+CD4+ effector memory T cell,Temra CD4+ T
+Terminal effector CD4+ T cell,Tte CD4+ T
+Proliferating CD4+ T cell ,Prolif. CD4+ T
+Naive CD8+ T cell,Naive CD8+ T
+CD8+ stem cell memory T cell,Tscm CD8+ T
+CD8+ central memory T cell,Tcm CD8+ T
+CD8+ effector memory T cell,Temra CD8+ T
+CD8+ Terminal effector T cell,Tte CD8+ T
+Proliferating CD8+ T cell,Prolif. CD8+ T
+Gamma delta T cell,gdT
+Mucosal associated invariant T cell,MAIT
+NKT-like cell,NKT-like
+CD56- Natural Killer cell,CD56- NK
+CD56+ Natural Killer cell,CD56+ NK
+Naive B cell,Naive B
+Classical Memory B cell,C-Memory B
+IgM Memory B cell,M-Memory B
+B cell,B (AIR)
+Transitional B cell,Transitional B
+Double negative 1 B cell,DN1 B
+Double negative 2 B cell,DN2 B
+Double negative 3 B cell,DN3 B
+Double negative 4 B cell,DN4 B
+Plasmablasts,Plasmablasts
+Plasmacytoid Dendritic cell,pDC
+Conventional Dendritic cell Type 1,cDC1
+Conventional Dendritic cell Type 2,cDC2
+CD14+ Monocyte,CD14+ Monocyte
+CD16+ Monocyte,CD16+ Monocyte
+Proliferating Monocytes,Prolif. Monocyte
+Megacaryocytes,Megacaryocytes

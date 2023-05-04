@@ -1,0 +1,22 @@
+name: plotting
+channels: 
+  - conda-forge
+  - bioconda
+dependencies: 
+  - r-ggplot2
+  - r-cowplot
+  - r-data.table
+  - r-ggsci
+  - r-ggforce
+  - r-readxl
+  - r-ggraph
+  - python-igraph
+  - r-gghalves
+  - r-seurat
+  - r-reshape2
+  - r-ggsignif
+  - r-ggrastr
+  - r-upsetr
+  - r-complexupset
+  - r-pbapply
+  - r-ggpubr

@@ -1,0 +1,11 @@
+To run the analysis and create the plots
+
+1) For the male and female subset: 
+run analysis/include_celltype_proportion.R in conda environment envs/rstudio_env.yml
+run analysis/correlate_clinical_measures.R in in the envs/plotting.yml environment
+run the Snakemake pipeline
+run analysis/pathway_analysis.py in envs/pathway_analysis.yml
+
+2) run all scripts in Create_Plots in the envs/plotting.yml environment
+
+
